@@ -10,28 +10,19 @@ const Footer = () => {
 
       {/* copyright */}
       <div className="footer-cpyright">
-        <p>© 2023. Design by Diksha</p>
+        <p>© 2025. Design by Diksha</p>
       </div>
       {/* social */}
       <ul className="footer-social-media">
-        <li>
-          <a href="">
-            <i className="fa-brands fa-facebook-f"></i>
-          </a>
-        </li>
+     
         <li>
           <a href="">
             <i className="fa-brands fa-twitter"></i>
           </a>
         </li>
         <li>
-          <a href="">
+          <a href="https://www.instagram.com/diksharayat?igsh=MWZvd2FhdHhzc253eQ%3D%3D&utm_source=qr">
             <i className="fa-brands fa-instagram"></i>
-          </a>
-        </li>
-        <li>
-          <a href="">
-            <i className="fa-brands fa-youtube"></i>
           </a>
         </li>
         <li>
